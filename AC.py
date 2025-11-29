@@ -1,5 +1,4 @@
 """#Jogo da vida"""
-
 # Tamanho da grade
 N = 20
 grid = np.random.choice([0, 1], size=(N, N))
